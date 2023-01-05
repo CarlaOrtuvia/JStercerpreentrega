@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
+    <script src="pagos.js"></script>
+    <title>controlPagos</title>
+</head>
+<body>
+    <h1>CONTROL PAGO EXPENSAS</h1>
+    <div class="container py-2">
+        <p class="lead">Ingrese pagos</p>
+        <form>
+            <input id="numeroLote" type="text" placeholder="Ingresa lote" class="form-control my-2">
+            <input  id="monto" type="text" placeholder="ingrese monto" class="form-control my-2">
+            <button id="boton" class="btn btn-success" type="reset" onclick="capturar();">Agregar</button>
+        </form>
+    </div>
+ <div class="container">
+    <table class="table" id="tabla">
+        <thead class="thead-inverse">
+            <tr>
+                <th>Lote</th>
+                <th>Monto</th>
+            </tr>
+        </thead>
+    </table>
+ </div>  
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <script src="pagos.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
