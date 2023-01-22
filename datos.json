@@ -6,60 +6,60 @@
         "lote": 1,
         "nombre": "Facundo Lopez",
         "estado": "Vivienda",
-        "deuda": "False"
+        "deuda": false
     },
     {
         "lote": 2,
         "nombre": "Domingo Lopez",
         "estado": "Vivienda",
-        "deuda": "False"
+        "deuda": false
     },
     {
         "lote": 3,
         "nombre": "Alberto Molina",
         "estado": "Lote",
-        "deuda": "True"
+        "deuda": true
     },
     {
         "lote": 4,
         "nombre": "Pedro Gonzales",
         "estado": "Lote",
-        "deuda": "True"
+        "deuda": true
     },
     {
         "lote": 5,
         "nombre": "Antonieta Cañas",
         "estado": "Pileta",
-        "deuda": "False"
+        "deuda": false
     },
     {
         "lote": 6,
         "nombre": "Federico Cañas",
         "estado": "Lote",
-        "deuda": "True"
+        "deuda": true
     },
     {
         "lote": 7,
         "nombre": "Pedro Cañas",
         "estado": "Lote",
-        "deuda": "True"
+        "deuda": true
     },
     {
         "lote": 8,
         "nombre": "Laura Maidana",
         "estado": "Lote",
-        "deuda": "True"
+        "deuda": true
     },
     {
         "lote": 9,
         "nombre": "Angeles Andrada",
         "estado": "Pileta",
-        "deuda": "False"
+        "deuda": false
     },
     {
         "lote": 10,
         "nombre": "Facundo Fernandez",
         "estado": "Vivienda",
-        "deuda": "False"
+        "deuda": false
     }
 ]

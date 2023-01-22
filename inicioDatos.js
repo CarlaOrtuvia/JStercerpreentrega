@@ -1,7 +1,7 @@
 
-const botonGenerar = document.querySelector(".button.button-outline");
+const botonGenerar = document.querySelector(".button.button-danger");
 const botonPagos = document.querySelector(".btn.btn-primary");
-const botonEgresos = document.querySelector(".btn.btn-danger");
+
 
 
 botonGenerar.onclick = () => {
